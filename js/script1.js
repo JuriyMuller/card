@@ -18,6 +18,8 @@ card.className = "card";
 card.style.padding = "20px 20px";
 card.style.borderRadius = "20px";
 card.style.backgroundColor = "hsl(216, 50%, 16%)";
+card.style.boxShadow =
+  " 3px 14px 28px rgba(0,0,0,0.25), 3px 10px 10px rgba(0,0,0,0.22)";
 
 // ИЗОБРАЖЕНИЕ
 let cardImg = document.createElement("img");
