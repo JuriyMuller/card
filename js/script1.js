@@ -130,3 +130,4 @@ user.appendChild(userText);
 userText.appendChild(userName);
 
 console.log(card);
+alert("Я оцениваю свою работу на 110 баллов");
